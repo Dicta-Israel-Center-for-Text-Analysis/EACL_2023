@@ -7,3 +7,5 @@ For details regarding the contents and curation of this challenge set, please se
 
 Technical notes:
 * Every line in each file contains a single training sample. the target word is delimited by double dagger symbols (unicode point \x2023)
+
+Please note: This dataset is for educational/academic non-commericial purposes only. 
